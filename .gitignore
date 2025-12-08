@@ -1,0 +1,19 @@
+# Environment
+.env
+.venv
+
+# Directories
+trash/
+env/
+__pycache__/
+reports/
+petrodiesel/
+proenergetics/
+sinergia/
+Utils/
+Diagramas/
+
+# Files
+
+test.py
+fns.py
